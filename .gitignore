@@ -29,7 +29,6 @@ DerivedData/
 ## App packaging
 *.app/
 *.ipa
-*.dylib
 *.dSYM.zip
 *.dSYM
 
@@ -75,6 +74,3 @@ iOSInjectionProject/
 
 # C
 *.o
-
-#Antiqua
-data/
